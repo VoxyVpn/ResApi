@@ -1,15 +1,5 @@
 {
-  "tagName": "v1.2.3",
-  "body": "Release notes for version 1.2.3\n- Bug fixes\n- New features",
-  "prerelease": false,
-  "assets": [
-    {
-      "name": "app-arm64-v8a.apk",
-      "browserDownloadUrl": "https://your-server.com/downloads/app-arm64-v8a.apk"
-    },
-    {
-      "name": "app-armeabi-v7a.apk",
-      "browserDownloadUrl": "https://your-server.com/downloads/app-armeabi-v7a.apk"
-    }
-  ]
+  "version": "1.2.3",
+  "notes": "Release notes for version 1.2.3\n- Bug fixes\n- New features",
+  "downloadUrl": "https://your-server.com/downloads/app.apk"
 }
