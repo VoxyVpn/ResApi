@@ -2,16 +2,16 @@
   "wallet_address": "YOUR_WALLET_ADDRESS_HERE",
   "plans": [
     {
-      "id": "plan_basic",
-      "name": "Basic Plan",
-      "price": 5.99,
+      "id": "plan_monthly",
+      "name": "Monthly Plan",
+      "price": 0.2,
       "durationDays": 30
     },
     {
-      "id": "plan_pro",
-      "name": "Pro Plan",
-      "price": 9.99,
-      "durationDays": 30
+      "id": "plan_quarterly",
+      "name": "Quarterly Plan",
+      "price": 0.5,
+      "durationDays": 90
     }
   ]
 }
