@@ -1,14 +1,17 @@
-[
+{
+  "wallet_address": "YOUR_WALLET_ADDRESS_HERE",
+  "plans": [
     {
-        "id": "plan_basic",
-        "name": "Basic Plan",
-        "price": 5.99,
-        "durationDays": 30
+      "id": "plan_basic",
+      "name": "Basic Plan",
+      "price": 5.99,
+      "durationDays": 30
     },
     {
-        "id": "plan_pro",
-        "name": "Pro Plan",
-        "price": 9.99,
-        "durationDays": 30
+      "id": "plan_pro",
+      "name": "Pro Plan",
+      "price": 9.99,
+      "durationDays": 30
     }
-]
+  ]
+}
