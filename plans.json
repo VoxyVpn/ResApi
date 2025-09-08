@@ -1,23 +1,14 @@
 [
     {
-        "id": "plan_monthly",
-        "name": "Monthly Plan",
-        "price": 1.0,
-        "durationDays": 30,
-        "description": "Access to all premium servers for 30 days."
+        "id": "plan_basic",
+        "name": "Basic Plan",
+        "price": 5.99,
+        "durationDays": 30
     },
     {
-        "id": "plan_quarterly",
-        "name": "Quarterly Plan",
-        "price": 2.5,
-        "durationDays": 90,
-        "description": "Access to all premium servers for 90 days."
-    },
-    {
-        "id": "plan_yearly",
-        "name": "Yearly Plan",
-        "price": 8.0,
-        "durationDays": 365,
-        "description": "Access to all premium servers for 1 year."
+        "id": "plan_pro",
+        "name": "Pro Plan",
+        "price": 9.99,
+        "durationDays": 30
     }
 ]
